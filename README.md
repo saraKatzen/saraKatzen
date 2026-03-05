@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Sara+Katzen;Software+Developer;Full+Stack+Developer;Loves+Building+Cool+Things"/>
+</p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:9333ea&height=220&section=header&text=Sara%20Katzen&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 <h3 align="center">Software Developer</h3>
@@ -67,6 +70,19 @@ Building scalable systems • Solving complex problems • Continuous learning
 </p>
 
 ---
+## Featured Projects
+
+<p align="center">
+
+<a href="LINK_TO_PROJECT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=saraKatzen&repo=REPOSITORY_NAME&theme=tokyonight"/>
+</a>
+
+<a href="LINK_TO_PROJECT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=saraKatzen&repo=REPOSITORY_NAME&theme=tokyonight"/>
+</a>
+
+</p>
 
 ## Snake Animation
 
