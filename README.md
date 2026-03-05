@@ -1,54 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:7c3aed&height=220&section=header&text=Sara%20Katzen&fontSize=42&fontColor=ffffff"/>
+# 💫 About Me:
+Hi there, I'm [sara katzen]! 👋<br>I am a passionate Software Developer dedicated to building clean, efficient, and scalable applications. With a strong foundation in both backend and frontend technologies, I love turning complex problems into simple, user-friendly solutions.<br><br>🚀 About Me<br>💻 Currently focused on building high-performance web applications using Python and Angular.<br><br>🛠️ Experienced in containerization with Docker and modern development workflows.<br><br>📚 Constant learner, always exploring new technologies and best practices in software architecture.<br><br>🎨 Creative at heart, with a background in digital design and illustration.<br><br>🛠️ Tech Stack<br>Languages: Python, JavaScript, TypeScript<br><br>Frontend: Angular, HTML5, CSS3<br><br>Backend: Flask / Django (Python)<br><br>DevOps & Tools: Docker, Git, GitHub Actions, Photoshop<br><br>🌟 Featured Project<br>[Recipe Sharing Platform] – A full-stack web application designed for sharing and discovering recipes.<br><br>Backend: Python<br><br>Frontend: Angular<br><br>Key Features: User authentication, recipe management, and high responsiveness.<br><br>Hebrew Translation (תרגום לעברית)
 
-<h2 align="center">Software Developer</h2>
 
-<p align="center">
-Passionate about building reliable systems, solving complex problems, and continuously learning new technologies.
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](                                                    saraKatzen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](                                             saraKatzen&theme=dark&hide_border=false)<br/>
+![](                                                               saraKatzen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## About Me
-
-I am a passionate software developer with a strong logical mindset and excellent analytical thinking. I enjoy learning new technologies independently and constantly improving my skills.
-
-I take full responsibility for my work and stay highly motivated to complete every task with high quality and attention to detail. I enjoy solving complex problems, even under pressure, and I aim to build efficient and reliable solutions.
-
-I value teamwork and believe in creating a collaborative and supportive environment. With strong technical abilities, good communication skills, and full dedication to every project, I always strive to achieve excellent results.
+## 🏆 GitHub Trophies
+![](                                                   saraKatzen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](                                   saraKatzen&icon=0&color=0)](                           )
 
-## Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,python,angular,react,nodejs,mongodb,mysql,git,aws" />
-
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saraKatzen&show_icons=true&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraKatzen&layout=compact&hide_border=true"/>
-
-</p>
-🛠️ Languages and Tools
-angularjs aws bootstrap c cplusplus csharp
-
-css3 dotnet git html5 java javascript mongodb
-
-mssql mysql nodejs python react spring typescript
----
-
-<p align="center">
-Thanks for visiting my profile
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:7c3aed&height=120&section=footer"/>
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
