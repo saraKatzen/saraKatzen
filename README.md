@@ -23,26 +23,7 @@ Hi, I'm **Sara Katzen**, a dedicated Software Developer driven by a strong analy
 ---
 
 ## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cs,c,java,js,ts" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,dotnet" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,linux,vscode,postman" />
-</p>
-
+![My Skills](https://skillicons.dev/icons?i=python,cs,c,java,js,ts,angular,react,html,css,bootstrap,dotnet,nodejs,express,spring,flask,mysql,mongodb,postgres,aws,docker,git,linux,vscode,postman)
 
 # 📬 Contact Me
 
